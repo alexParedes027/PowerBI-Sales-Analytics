@@ -1,0 +1,21 @@
+CustomerID,CustomerName,City,Region
+1,Cliente 1, Mendoza,Oeste
+2,Cliente 2, Mendoza,Oeste
+3,Cliente 3, Mendoza,Oeste
+4,Cliente 4,Cordoba ,Centro
+5,Cliente 5, Mendoza,Oeste
+6,Cliente 6,Cordoba ,Centro
+7,cliente 7, Mendoza,Oeste
+8,Cliente 8,Buenos Aires,Buenos Aires
+9,Cliente 9, Mendoza,Oeste
+10,Cliente 10,Rosario,Centro
+11,Cliente 11,Buenos Aires,Buenos Aires
+12,Cliente 12,Buenos Aires,Buenos Aires
+13,Cliente 13,Rosario,Centro
+14,cliente 14,Rosario,Centro
+15,Cliente 15,Rosario,Centro
+16,Cliente 16,Rosario,Centro
+17,Cliente 17,Cordoba ,Centro
+18,Cliente 18, Mendoza,Oeste
+19,Cliente 19,Rosario,Centro
+20,Cliente 20,Buenos Aires,Buenos Aires
